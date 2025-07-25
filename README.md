@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud M. Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIf" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudabdullah228&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudabdullah228" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudabdullah228" alt="mahmoudabdullah228" /></a> </p>
